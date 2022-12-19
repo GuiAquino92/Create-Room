@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-project">Projetot</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">Licença</a>
 </p>
 
 <p align="center">
@@ -21,9 +21,13 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
-## 🚀 Technologies
+## 💻 Projeto
 
-This project was developed with the following technologies:
+Rocket.Q é uma plataforma de perguntas em salas privadas com senha para entrar. O administrador da respectiva sala pode marcar as perguntas como lidas ou apagá-las. Rocket.Q pode ser usado por streamers ou palestrantes em eventos para liberar salas para que o público faça perguntas.
+
+## 🚀 Tecnologias
+
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
@@ -33,26 +37,23 @@ This project was developed with the following technologies:
 - Express
 - SQLite
 
-## 💻 Project
 
-Rocket.Q is a platform of questions in private rooms with password to enter, the administrator of the respective room can check the questions as read or erase then. Rocket.Q can be used by streamers or speakers in events to free rooms to the public make questions.
+## Como usar?
 
-## How to use?
+Faça o download deste repositório e, com o terminal, entre na pasta
 
-Download this repositorie and with your teminal, enter in the directory
-
-1. Run the command `npm install` to install the dependencies
-2. After, run the command `npm run init-db` to install the database
-3. And to start the application, run the command `npm start` 
+Execute o comando npm install para instalar as dependências
+Depois, execute o comando npm run init-db para instalar o banco de dados
+E para iniciar a aplicação, execute o comando npm start
 
 ## 🔖 Layout
 
-You can see the layout of the project at [this link](https://www.figma.com/community/file/1009821158959690135). It's necessary have an account at [Figma](https://figma.com) to access it.
+Você pode ver o layout do projeto [neste link](https://www.figma.com/community/file/1009821158959690135). É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: License
+## :memo: Licença
 
-This project is under MIT license. See the file [LICENSE](.github/LICENSE.md) for more details.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
+&#xa0;
 
-Made with ♥ by Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
+Feito com :heart: por <a href="https://github.com/guiaquinodev" target="_blank">Guilherme Aquino</a>
